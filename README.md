@@ -25,7 +25,7 @@ Déploiement de la base SQL Server, extension du schéma Active Directory pour S
 3. Configuration de la hiérarchie SCCM
 Mise en place des méthodes de découverte, des limites de site (Boundaries) et des groupes de limites pour une administration efficace du parc.
 
-4. Bonnes pratiques d'administratio<img width="1666" height="402" alt="005-gpo-sccm" src="https://github.com/user-attachments/assets/d3ced827-0c39-4181-a740-17965ced5fa7" />
+4. Bonnes pratiques d'administration<img width="1666" height="402" alt="005-gpo-sccm" src="https://github.com/user-attachments/assets/d3ced827-0c39-4181-a740-17965ced5fa7" />
 <img width="1680" height="405" alt="004-dhcp-sccm" src="https://github.com/user-attachments/assets/1a82e36f-64cb-45a6-9a9b-c75e05014c98" />
 <img width="1671" height="331" alt="003-dns-sccm" src="https://github.com/user-attachments/assets/f6deda92-208a-455e-ab1c-3d170e5f1811" />
 <img width="1668" height="588" alt="002-Active-directory-sccm" src="https://github.com/user-attachments/assets/fb5e8135-e0a3-42ae-90a9-c2317ec94eb5" />
