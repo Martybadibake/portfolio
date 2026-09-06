@@ -19,25 +19,27 @@ Technologies et outils utilisés
 1. Préparation de l'infrastructure de base
 Configuration des commutateurs virtuels sur ESXi, création des VM Windows Server, mise en place d'une forêt Active Directory complète avec comptes, DNS, GPO et container SCCM dédié.
 
+
 2. Installation du site SCCM
-Déploiement de la base SQL Server, extension du schéma Active Directory pour SCCM, <img width="1668" height="588" alt="002-Active-directory-sccm" src="https://github.com/user-attachments/assets/c046b174-f0dd-422a-ae0e-7e58850f0394" />
-installation de l'infrastructure et du site primaire SCCM.
-3. Configuration de la hiérarchie SCCM
+Déploiement de la base SQL Server, extension du schéma Active Directory pour SCCM,installation de l'infrastructure et du site primaire SCCM.
+<img width="1668" height="588" alt="002-Active-directory-sccm" src="https://github.com/user-attachments/assets/ddebf506-44d1-4833-a75d-8c1cd30abb43" />
+
+4. Configuration de la hiérarchie SCCM
 Mise en place des méthodes de découverte, des limites de site (Boundaries) et des groupes de limites pour une administration efficace du parc.
 
-4. Bonnes pratiques d'administration
+5. Bonnes pratiques d'administration
 Configuration du RBAC (contrôle d'accès basé sur les rôles), des composants de site, des rapports (Reporting Services), création de collections via requêtes SQL, et extension de l'infrastructure avec un second site (Management Point + Distribution Point).
 
-5. Déploiement des agents clients
+6. Déploiement des agents clients
 Installation et configuration des agents SCCM sur les postes, avec validation des prérequis.
 
-6. Gestion du cycle de vie des applications
+7. Gestion du cycle de vie des applications
 Préparation des dépôts d'applications, création de packages (MSI/EXE), distribution vers les points de distribution, déploiement ciblé, supervision des déploiements et gestion des mises à jour de versions.
 
-7. Déploiement de systèmes d'exploitation (OSD)
+8. Déploiement de systèmes d'exploitation (OSD)
 Configuration du rôle WDS pour le PXE, gestion des images système (.WIM), création et déploiement de séquences de tâches (avec jonction automatique au domaine et à l'unité d'organisation appropriée), et configuration DHCP avancée (UEFI, Legacy, Vendor Class).
 
-8. Intégration des pilotes (drivers)
+9. Intégration des pilotes (drivers)
 Importation, packaging et intégration de pilotes matériels dans les séquences de déploiement pour assurer la compatibilité multi-matériel.
 
 Compétences démontrées
