@@ -11,7 +11,8 @@ Technologies et outils utilisés
 • Microsoft Endpoint Configuration Manager (SCCM / MECM)
 • VMware ESXi (virtualisation du lab)
 • WDS (Windows Deployment Services) / PXE
-• ADK + USMT (Assessment and Deployment Kit)
+• ADK + USMT (Assessment and Deployment Kit)<img width="962" height="721" alt="001-Topology_network" src="https://github.com/user-attachments/assets/69db7b6f-e19c-4c17-a437-984850afd94d" />
+
 
 Étapes clés de la réalisation
 
