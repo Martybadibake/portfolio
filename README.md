@@ -20,7 +20,8 @@ Technologies et outils utilisés
 Configuration des commutateurs virtuels sur ESXi, création des VM Windows Server, mise en place d'une forêt Active Directory complète avec comptes, DNS, GPO et container SCCM dédié.
 
 2. Installation du site SCCM
-Déploiement de la base SQL Server, extension du schéma Active Directory pour SCCM, installation de l'infrastructure et du site primaire SCCM.
+Déploiement de la base SQL Server, extension du schéma Active Directory pour SCCM, <img width="1668" height="588" alt="002-Active-directory-sccm" src="https://github.com/user-attachments/assets/c046b174-f0dd-422a-ae0e-7e58850f0394" />
+installation de l'infrastructure et du site primaire SCCM.
 3. Configuration de la hiérarchie SCCM
 Mise en place des méthodes de découverte, des limites de site (Boundaries) et des groupes de limites pour une administration efficace du parc.
 
