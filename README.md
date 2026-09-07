@@ -82,6 +82,7 @@ Configuration du rôle WDS pour le PXE, gestion des images système (.WIM), cré
 <img width="1508" height="854" alt="021-PXE-sccm" src="https://github.com/user-attachments/assets/4f3a4812-ee01-4b4b-a4a5-b5f8ea5998a1" />
 <img width="1693" height="790" alt="020-Deploiement-app-sccm" src="https://github.com/user-attachments/assets/17a2b200-231c-4ca9-b789-21f8ee463e9b" />
 <img width="1686" height="804" alt="019-Deploiement-app-sccm" src="https://github.com/user-attachments/assets/5981af9f-4b9b-4fb8-8bec-4266f473836b" />
+<img width="1686" height="911" alt="018-App-exe-msi" src="https://github.com/user-attachments/assets/b9db38c5-cd72-4ff5-b595-b9c2bcd3bd1f" />
 
 Compétences démontrées
 • Conception et déploiement d'une infrastructure Windows Server complète (AD, DNS, DHCP, GPO)
@@ -89,6 +90,3 @@ Compétences démontrées
 • Automatisation du déploiement d'OS et d'applications
 • Résolution de problématiques réseau (PXE, DHCP multi-scénarios)
 • Compréhension des architectures multi-sites (MP/DP)
-
-<img width="1686" height="911" alt="018-App-exe-msi" src="https://github.com/user-attachments/assets/b9db38c5-cd72-4ff5-b595-b9c2bcd3bd1f" />
-
