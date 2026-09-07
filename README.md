@@ -72,13 +72,25 @@ Préparation des dépôts d'applications, création de packages (MSI/EXE), distr
 
 7. Déploiement de systèmes d'exploitation (OSD)
 Configuration du rôle WDS pour le PXE, gestion des images système (.WIM), création et déploiement de séquences de tâches (avec jonction automatique au domaine et à l'unité d'organisation appropriée), et configuration DHCP avancée (UEFI, Legacy, Vendor Class), Importation, packaging et intégration de pilotes matériels dans les séquences de déploiement pour assurer la compatibilité multi-matériel.
+<img width="1016" height="770" alt="030-fin-intallation-w10" src="https://github.com/user-attachments/assets/f63b8d6b-55b7-44e8-9482-c5ccf2301a4f" />
+<img width="1531" height="849" alt="031-Confirmation-app-distribuer-sur-client" src="https://github.com/user-attachments/assets/c8c4ce6b-b65a-4168-b4a0-fa77419ca32d" />
+<img width="892" height="456" alt="029-Demarage-deployement" src="https://github.com/user-attachments/assets/96d6ff8e-acf6-46ae-9e83-e2cdb9931415" />
+<img width="1740" height="880" alt="028-Reception-Client-PXE_w10" src="https://github.com/user-attachments/assets/c6cbc7be-75b2-42d3-a32e-0f784e19ddf8" />
+<img width="1649" height="916" alt="023-Sequences-task" src="https://github.com/user-attachments/assets/88a26ae1-952b-47f1-93c7-f0d397ebc6ae" />
+<img width="1662" height="942" alt="023-02-sequanceTask_sequences-sccm-28" src="https://github.com/user-attachments/assets/a452fc1a-a946-4ebd-9f43-da101ed2d142" />
+<img width="1685" height="881" alt="022-Boot-image-sccm" src="https://github.com/user-attachments/assets/e19728ce-cb4d-4439-a246-7d10a76e4799" />
+
+<img width="1508" height="854" alt="021-PXE-sccm" src="https://github.com/user-attachments/assets/cd52a56c-b379-4507-8b26-0c8af5600807" />
+<img width="1693" height="790" alt="020-Deploiement-app-sccm" src="https://github.com/user-attachments/assets/04b7f799-3b76-4b50-89de-215aa56e5eb6" />
+<img width="1686" height="804" alt="019-Deploiement-app-sccm" src="https://github.com/user-attachments/assets/213fd7d0-cb54-450d-90b9-eae1d6a7834e" />
+
+
+<img width="1686" height="911" alt="018-App-exe-msi" src="https://github.com/user-attachments/assets/ee64c707-ecd4-4c4f-82a4-285170aada44" />
 
 
 
 
 
 
-
-
-
+intégration de pilotes matériels dans les séquences de déploiement pour assurer la compatibilité multi-matériel.
 
