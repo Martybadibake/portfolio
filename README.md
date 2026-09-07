@@ -72,25 +72,15 @@ Préparation des dépôts d'applications, création de packages (MSI/EXE), distr
 
 7. Déploiement de systèmes d'exploitation (OSD)
 Configuration du rôle WDS pour le PXE, gestion des images système (.WIM), création et déploiement de séquences de tâches (avec jonction automatique au domaine et à l'unité d'organisation appropriée), et configuration DHCP avancée (UEFI, Legacy, Vendor Class), Importation, packaging et intégration de pilotes matériels dans les séquences de déploiement pour assurer la compatibilité multi-matériel.
-<img width="1016" height="770" alt="030-fin-intallation-w10" src="https://github.com/user-attachments/assets/f63b8d6b-55b7-44e8-9482-c5ccf2301a4f" />
-<img width="1531" height="849" alt="031-Confirmation-app-distribuer-sur-client" src="https://github.com/user-attachments/assets/c8c4ce6b-b65a-4168-b4a0-fa77419ca32d" />
-<img width="892" height="456" alt="029-Demarage-deployement" src="https://github.com/user-attachments/assets/96d6ff8e-acf6-46ae-9e83-e2cdb9931415" />
-<img width="1740" height="880" alt="028-Reception-Client-PXE_w10" src="https://github.com/user-attachments/assets/c6cbc7be-75b2-42d3-a32e-0f784e19ddf8" />
-<img width="1649" height="916" alt="023-Sequences-task" src="https://github.com/user-attachments/assets/88a26ae1-952b-47f1-93c7-f0d397ebc6ae" />
-<img width="1662" height="942" alt="023-02-sequanceTask_sequences-sccm-28" src="https://github.com/user-attachments/assets/a452fc1a-a946-4ebd-9f43-da101ed2d142" />
-<img width="1685" height="881" alt="022-Boot-image-sccm" src="https://github.com/user-attachments/assets/e19728ce-cb4d-4439-a246-7d10a76e4799" />
-
-<img width="1508" height="854" alt="021-PXE-sccm" src="https://github.com/user-attachments/assets/cd52a56c-b379-4507-8b26-0c8af5600807" />
-<img width="1693" height="790" alt="020-Deploiement-app-sccm" src="https://github.com/user-attachments/assets/04b7f799-3b76-4b50-89de-215aa56e5eb6" />
-<img width="1686" height="804" alt="019-Deploiement-app-sccm" src="https://github.com/user-attachments/assets/213fd7d0-cb54-450d-90b9-eae1d6a7834e" />
-
-
-<img width="1686" height="911" alt="018-App-exe-msi" src="https://github.com/user-attachments/assets/ee64c707-ecd4-4c4f-82a4-285170aada44" />
-
-
-
-
-
-
-intégration de pilotes matériels dans les séquences de déploiement pour assurer la compatibilité multi-matériel.
+<img width="1531" height="849" alt="031-Confirmation-app-distribuer-sur-client" src="https://github.com/user-attachments/assets/b3ef589e-6216-43eb-b0c5-8658be72072f" />
+<img width="1016" height="770" alt="030-fin-intallation-w10" src="https://github.com/user-attachments/assets/a6c7ad03-0921-4dbd-84f4-70cde4a8b267" />
+<img width="892" height="456" alt="029-Demarage-deployement" src="https://github.com/user-attachments/assets/664de7a2-38e3-44f4-93eb-952ebccc0585" />
+<img width="1740" height="880" alt="028-Reception-Client-PXE_w10" src="https://github.com/user-attachments/assets/7cb0a8c2-1e54-43a4-80da-db333d690852" />
+<img width="1649" height="916" alt="023-Sequences-task" src="https://github.com/user-attachments/assets/8048413d-e3d1-4c9d-8237-57d68cb75216" />
+<img width="1662" height="942" alt="023-02-sequanceTask_sequences-sccm-28" src="https://github.com/user-attachments/assets/e40dfff2-c8a4-451e-ad38-c42754e10d7c" />
+<img width="1685" height="881" alt="022-Boot-image-sccm" src="https://github.com/user-attachments/assets/b7bb8888-b5dd-439f-8294-926a967dc5e2" />
+<img width="1508" height="854" alt="021-PXE-sccm" src="https://github.com/user-attachments/assets/4f3a4812-ee01-4b4b-a4a5-b5f8ea5998a1" />
+<img width="1693" height="790" alt="020-Deploiement-app-sccm" src="https://github.com/user-attachments/assets/17a2b200-231c-4ca9-b789-21f8ee463e9b" />
+<img width="1686" height="804" alt="019-Deploiement-app-sccm" src="https://github.com/user-attachments/assets/5981af9f-4b9b-4fb8-8bec-4266f473836b" />
+<img width="1686" height="911" alt="018-App-exe-msi" src="https://github.com/user-attachments/assets/b9db38c5-cd72-4ff5-b595-b9c2bcd3bd1f" />
 
