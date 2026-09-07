@@ -70,9 +70,8 @@ Préparation des dépôts d'applications, création de packages (MSI/EXE), distr
 <img width="1686" height="804" alt="019-Deploiement-app-sccm" src="https://github.com/user-attachments/assets/3d41c978-e587-44c7-9689-ab41bfe7976d" />
 <img width="1693" height="790" alt="020-Deploiement-app-sccm" src="https://github.com/user-attachments/assets/2cb16487-22bb-4384-a5c1-b59c0b6186c9" />
 
-
-
-
+7. Déploiement de systèmes d'exploitation (OSD)
+Configuration du rôle WDS pour le PXE, gestion des images système (.WIM), création et déploiement de séquences de tâches (avec jonction automatique au domaine et à l'unité d'organisation appropriée), et configuration DHCP avancée (UEFI, Legacy, Vendor Class), Importation, packaging et intégration de pilotes matériels dans les séquences de déploiement pour assurer la compatibilité multi-matériel.
 
 
 
