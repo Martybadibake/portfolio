@@ -4,6 +4,7 @@ Déploiement d'une infrastructure MECM / SCCM
 Contexte et objectif
 Ce projet consiste en la mise en place complète d'une infrastructure SCCM (System Center Configuration Manager / MECM) en environnement de laboratoire, reproduisant les conditions d'un déploiement d'entreprise réel : de la préparation de l'Active Directory jusqu'au déploiement automatisé de systèmes d'exploitation et d'applications sur des postes clients.
 L'objectif était de maîtriser un outil central de la gestion de parc informatique en entreprise, utilisé pour automatiser le déploiement d'OS, la gestion des applications, et l'administration centralisée de nombreux postes.
+<img width="962" height="721" alt="001-Topology_network" src="https://github.com/user-attachments/assets/62d3ad6e-3d10-4a79-a081-918993161437" />
 
 Technologies et outils utilisés
 • Windows Server (Active Directory, DNS, DHCP, GPO)
@@ -12,7 +13,7 @@ Technologies et outils utilisés
 • VMware ESXi (virtualisation du lab)
 • WDS (Windows Deployment Services) / PXE
 • ADK + USMT (Assessment and Deployment Kit)
-<img width="962" height="721" alt="001-Topology_network" src="https://github.com/user-attachments/assets/62d3ad6e-3d10-4a79-a081-918993161437" />
+
 
 Étapes clés de la réalisation
 
