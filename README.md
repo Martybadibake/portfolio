@@ -23,43 +23,9 @@ Configuration des commutateurs virtuels sur ESXi, création des VM Windows Serve
 <img width="1666" height="402" alt="005-gpo-sccm" src="https://github.com/user-attachments/assets/709e77b4-786d-4008-8790-07e627696bee" />
 2. Installation du site SCCM
 Déploiement de la base SQL Server, extension du schéma Active Directory pour SCCM,installation de l'infrastructure et du site primaire SCCM.
-
-4. Configuration de la hiérarchie SCCM
-Mise en place des méthodes de découverte, des limites de site (Boundaries) et des groupes de limites pour une administration efficace du parc.
-
-5. Bonnes pratiques d'administration
-Configuration du RBAC (contrôle d'accès basé sur les rôles), des composants de site, des rapports (Reporting Services), création de collections via requêtes SQL, et extension de l'infrastructure avec un second site (Management Point + Distribution Point).
-
-6. Déploiement des agents clients
-Installation et configuration des agents SCCM sur les postes, avec validation des prérequis.
-
-7. Gestion du cycle de vie des applications
-Préparation des dépôts d'applications, création de packages (MSI/EXE), distribution vers les points de distribution, déploiement ciblé, supervision des déploiements et gestion des mises à jour de versions.
-
-8. Déploiement de systèmes d'exploitation (OSD)
-Configuration du rôle WDS pour le PXE, gestion des images système (.WIM), création et déploiement de séquences de tâches (avec jonction automatique au domaine et à l'unité d'organisation appropriée), et configuration DHCP avancée (UEFI, Legacy, Vendor Class).
-
-9. Intégration des pilotes (drivers)
-Importation, packaging et intégration de pilotes matériels dans les séquences de déploiement pour assurer la compatibilité multi-matériel.
-
-Compétences démontrées
-• Conception et déploiement d'une infrastructure Windows Server complète (AD, DNS, DHCP, GPO)
-• Administration d'un outil de gestion de parc informatique à l'échelle entreprise
-• Automatisation du déploiement d'OS et d'applications
-• Résolution de problématiques réseau (PXE, DHCP multi-scénarios)
-• Compréhension des architectures multi-sites (MP/DP)
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1696" height="859" alt="006-sql-sccm" src="https://github.com/user-attachments/assets/cdb46647-fdfc-43cf-a1a6-4d6582431166" />
+<img width="1576" height="590" alt="007-container-sccm" src="https://github.com/user-attachments/assets/17f60135-284a-41ab-ab7b-d87f74884e9d" />
+<img width="1687" height="812" alt="008-Site-Primaire-sccm" src="https://github.com/user-attachments/assets/c3e014a8-cf67-4982-bd8b-721613179ece" />
 
 
 
