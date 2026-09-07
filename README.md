@@ -58,7 +58,8 @@ Configuration du RBAC (contrôle d'accès basé sur les rôles), des composants 
 
 <img width="1639" height="771" alt="012-01-Role-site-principale" src="https://github.com/user-attachments/assets/b165118b-5346-42de-8416-383d956778f5" />
 
-
+5. Déploiement des agents clients
+Installation et configuration des agents SCCM sur les postes, avec validation des prérequis.
 
 
 
