@@ -60,6 +60,22 @@ Configuration du RBAC (contrôle d'accès basé sur les rôles), des composants 
 
 5. Déploiement des agents clients
 Installation et configuration des agents SCCM sur les postes, avec validation des prérequis.
+<img width="1567" height="705" alt="015-Agent-clients-sccm" src="https://github.com/user-attachments/assets/32b33375-cd3a-447b-a2b0-045737c853ca" />
+
+6. Gestion du cycle de vie des applications
+Préparation des dépôts d'applications, création de packages (MSI/EXE), distribution vers les points de distribution, déploiement ciblé, supervision des déploiements et gestion des mises à jour de versions.
+<img width="1437" height="810" alt="016-Distribution-logiciel-sur-client-sccm" src="https://github.com/user-attachments/assets/eeb8f757-0183-4205-a37d-a7bd8d5bbcfa" />
+<img width="1629" height="969" alt="017-distribution-app-image-sccm" src="https://github.com/user-attachments/assets/e1f95df6-2f7b-48d2-9d44-fbdeca2bce58" />
+<img width="1686" height="911" alt="018-App-exe-msi" src="https://github.com/user-attachments/assets/ab6b5fc1-5eea-4fed-86a9-3e6c65799bc2" />
+<img width="1686" height="804" alt="019-Deploiement-app-sccm" src="https://github.com/user-attachments/assets/3d41c978-e587-44c7-9689-ab41bfe7976d" />
+<img width="1693" height="790" alt="020-Deploiement-app-sccm" src="https://github.com/user-attachments/assets/2cb16487-22bb-4384-a5c1-b59c0b6186c9" />
+
+
+
+
+
+
+
 
 
 
