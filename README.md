@@ -17,11 +17,10 @@ Technologies et outils utilisés
 Étapes clés de la réalisation
 
 1. Préparation de l'infrastructure de base
-Configuration des commutateurs virtuels sur ESXi, création des VM Windows Server, mise en place d'une forêt Active Directory complète avec comptes, DNS, GPO et container SCCM dédié.<img width="1666" height="402" alt="005-gpo-sccm" src="https://github.com/user-attachments/assets/5e357ca3-3701-46ea-8310-a1d7e708a37d" />
-<img width="1680" height="405" alt="004-dhcp-sccm" src="https://github.com/user-attachments/assets/8f761fdb-3fda-42ea-8a00-451ccd1fa672" />
-<img width="1671" height="331" alt="003-dns-sccm" src="https://github.com/user-attachments/assets/1c48e890-d441-4ce5-bfcd-db48aa8d266f" />
-<img width="1668" height="588" alt="002-Active-directory-sccm" src="https://github.com/user-attachments/assets/e73601e7-0904-4274-80a4-40a2784de6f6" />
-
+Configuration des commutateurs virtuels sur ESXi, création des VM Windows Server, mise en place d'une forêt Active Directory complète avec comptes, DNS, GPO et container SCCM dédié.<img width="1668" height="588" alt="002-Active-directory-sccm" src="https://github.com/user-attachments/assets/57fb7ff3-c31c-4b45-8d8e-abfe486b5854" />
+<img width="1671" height="331" alt="003-dns-sccm" src="https://github.com/user-attachments/assets/026388b2-c265-40af-a061-780946a2c173" />
+<img width="1680" height="405" alt="004-dhcp-sccm" src="https://github.com/user-attachments/assets/73bd50ce-73ce-421a-b2db-4aad0ab2960b" />
+<img width="1666" height="402" alt="005-gpo-sccm" src="https://github.com/user-attachments/assets/709e77b4-786d-4008-8790-07e627696bee" />
 2. Installation du site SCCM
 Déploiement de la base SQL Server, extension du schéma Active Directory pour SCCM,installation de l'infrastructure et du site primaire SCCM.
 
