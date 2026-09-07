@@ -12,16 +12,14 @@ Technologies et outils utilisés
 • VMware ESXi (virtualisation du lab)
 • WDS (Windows Deployment Services) / PXE
 • ADK + USMT (Assessment and Deployment Kit)
-
+<img width="962" height="721" alt="001-Topology_network" src="https://github.com/user-attachments/assets/62d3ad6e-3d10-4a79-a081-918993161437" />
 
 Étapes clés de la réalisation
 
 1. Préparation de l'infrastructure de base
-Configuration des commutateurs virtuels sur ESXi, création des VM Windows Server, mise en place d'une forêt Active Directory complète avec comptes, DNS, GPO et container SCCM dédié.<img width="962" height="721" alt="001-Topology_network" src="https://github.com/user-attachments/assets/69db7b6f-e19c-4c17-a437-984850afd94d" />
-
+Configuration des commutateurs virtuels sur ESXi, création des VM Windows Server, mise en place d'une forêt Active Directory complète avec comptes, DNS, GPO et container SCCM dédié.
 2. Installation du site SCCM
 Déploiement de la base SQL Server, extension du schéma Active Directory pour SCCM,installation de l'infrastructure et du site primaire SCCM.
-<img width="1668" height="588" alt="002-Active-directory-sccm" src="https://github.com/user-attachments/assets/ddebf506-44d1-4833-a75d-8c1cd30abb43" />
 
 4. Configuration de la hiérarchie SCCM
 Mise en place des méthodes de découverte, des limites de site (Boundaries) et des groupes de limites pour une administration efficace du parc.
